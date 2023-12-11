@@ -6,6 +6,9 @@ Kinase inhibitors are crucial in cancer treatment, but drug resistance and side 
 
 We provide three scripts for training, fine-tuning new models and predicting new compounds, respectively. 
 
+![figure-1](https://github.com/myzhengSIMM/KinomeMETA/assets/149573757/032deb8b-2493-4b42-b528-510931c14af2)
+Fig. 1 | The overall architecture of KinomeMETA.
+
 ### Train model
 ```
 bash train.sh
